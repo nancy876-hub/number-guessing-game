@@ -11,6 +11,7 @@ while True:
     # Keep track of the number of attempts
     attempts = 0
 
+    print("Let's start the game!")
     print("\nWelcome to the Number Guessing Game!")
     print("I have selected a number between 1 and 100.")
 
